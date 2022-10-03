@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **ReactJs, Nodejs**
 
-- 👨‍💻 All of my projects are available at [shivam0626.github.io](shivam0626.github.io)
+- 👨‍💻 All of my projects are available at [https://shivam0626.github.io/](https://shivam0626.github.io/)
 
 - 📫 How to reach me **shivammaurya7310@gmail.com**
 
