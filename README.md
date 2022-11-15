@@ -1,4 +1,6 @@
-![news24](https://user-images.githubusercontent.com/101569590/193471491-f0202325-7e42-4a3a-a76e-21caeeca5fac.gif)
+<!-- ![news24](https://user-images.githubusercontent.com/101569590/193471491-f0202325-7e42-4a3a-a76e-21caeeca5fac.gif) -->
+![image](https://user-images.githubusercontent.com/101569590/201851468-17c593dd-8171-451a-8b04-9963d67989ef.png)
+
 
 <h1 align="center">Hi 👋, I'm Shivam Maurya</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
